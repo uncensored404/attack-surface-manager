@@ -1,0 +1,8 @@
+# Fichier de périmètre autorisé - ATTACK SURFACE MANAGER
+# Un domaine ou sous-domaine par ligne
+# Les lignes commençant par # sont ignorées
+
+exemple.com
+www.exemple.com
+api.exemple.com
+*.exemple.com
